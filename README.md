@@ -8,6 +8,6 @@
 - redux-thunk
 - millify
 
-<h1>Bu proje bir react projesidir. Netflix clone seçilen filmin özelliklerini detaylıca açıklar. </h1>
+<h1>Bu proje bir react vite projesidir. Netflix clone seçilen filmin özelliklerini detaylıca açıklar. </h1>
 
 
