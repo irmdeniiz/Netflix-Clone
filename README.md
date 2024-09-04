@@ -1,14 +1,13 @@
-##
+##Kütühaneler
 
 - react-router-dom
 - redux
 - react-redux
 - axios
-- tailwind (https://tailwindcss.com/docs/installation)
+- tailwind (
 - redux-thunk
-- @splidejs/react-splide
 - millify
 
-##
+<h1>Bu proje bir react projesidir. Netflix clone seçilen filmin özelliklerini detaylıca açıklar. </h1>
 
-- API:https://www.themoviedb.org/
+
