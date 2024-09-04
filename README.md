@@ -4,7 +4,7 @@
 - redux
 - react-redux
 - axios
-- tailwind (
+- tailwind 
 - redux-thunk
 - millify
 
